@@ -29,7 +29,7 @@ It is particularly helpful because it can:
 - Delete records from a database.
 - Create new databases, or new tables in a database.
 
-
+![This is an image](pics/task18.PNG)
 
 
 </p>
