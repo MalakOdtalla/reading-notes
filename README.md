@@ -29,8 +29,10 @@ It is particularly helpful because it can:
 - Delete records from a database.
 - Create new databases, or new tables in a database.
 
-This is the images related to sql tasks in [link](https://sqlbolt.com/)
-![This is an image](pics/task1.PNG)
+This is the images related to sql tasks in [ SQL Bolt](https://sqlbolt.com/)
+<p align="center">
+
+![This is an image](pics/task1.PNG)  
 ![This is an image](pics/Task2.PNG)
 ![This is an image](pics/task3.PNG)
 ![This is an image](pics/task4.PNG)
@@ -42,7 +44,7 @@ This is the images related to sql tasks in [link](https://sqlbolt.com/)
 ![This is an image](pics/task16.PNG)
 ![This is an image](pics/task17.PNG)
 ![This is an image](pics/task18.PNG)
-
+</p>
 
 
 
