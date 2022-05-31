@@ -12,7 +12,7 @@
 
 
 <details>
-<summary>Relational Database</summary>
+<summary><b>Relational Database</b></summary>
 <p>
 
 ## Relational Database & SQL
@@ -46,7 +46,7 @@ This is the images related to sql tasks in [ SQL Bolt](https://sqlbolt.com/)
 
 
 <details>
-<summary>Linux Command line</summary>
+<summary> <b>Linux Command line</b></summary>
 <p>
 
 From [ Bash Command Line Tutorials](https://ryanstutorials.net/linuxtutorial/),I covered the basics of working with the Linux command line, to get the computer to do useful work, without using the graphical user interface; windows and buttons, and I will summraize some of these powerful commands:</br>
@@ -59,14 +59,6 @@ In Addition to that there is a alot of commands to manipulation files, ex:<br>
 **rm 'path'**, remove a file or directory.<br>
 - The manual pages are a set of pages that explain every command available on our system including what they do, By typing **man 'command'** we will get access to a description of what the command does, as well as a list of all possible options and what they do.
 -  And we can managing all the processes that running on our machine with the following command: **ps aux**
-
-
-
-
-
-
-
-
 
 </p>
 </details>
