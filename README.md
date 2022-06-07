@@ -18,6 +18,8 @@
 | Reading Class 01 | [link](./ReadingC1/README.md) |
 | Reading Class 02  | [link](./ReadingC2/README.md) |
 | Reading Class 03  | [link](./ReadingC3/README.md) |
+| Reading Class 04  | [link](./ReadingC4/README.md) |
+
 
 
 
