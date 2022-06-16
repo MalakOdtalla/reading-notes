@@ -19,9 +19,9 @@
 | Reading Class 02  | [link](./ReadingC2/README.md) |
 | Reading Class 03  | [link](./ReadingC3/README.md) |
 | Reading Class 04  | [link](./ReadingC4/README.md) |
-| Reading Class 05  | [link](./ReadingC5/README.md) |
+| Reading Class 05  | [link](https://malakodtalla.github.io/reading-notes/ReadingC5/) |
 | Reading Class 06  | [link](./ReadingC6/README.md) |
-| Reading Class 07  | [link](./ReadingC7/README.md) |
+| Reading Class 07  | [link](https://malakodtalla.github.io/reading-notes/ReadingC7/) |
 | Reading Class 08  | [link](https://malakodtalla.github.io/reading-notes/ReadingC8/) |
 
 
