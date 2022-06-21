@@ -23,6 +23,7 @@
 | Reading Class 06  | [link](./ReadingC6/README.md) |
 | Reading Class 07  | [link](https://malakodtalla.github.io/reading-notes/ReadingC7/) |
 | Reading Class 08  | [link](https://malakodtalla.github.io/reading-notes/ReadingC8/) |
+| Reading Class 09  | [link](https://malakodtalla.github.io/reading-notes/ReadingC9/) |
 
 
 
