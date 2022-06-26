@@ -34,3 +34,6 @@ to iterate over class objects.
 
 A context manager is a simple “protocol” (or interface) that your object needs to follow so it can be used with the with statement. Basically all you need to do is add _ _enter__ and _ _exit__ methods to an object if you want it to function as a context manager.
  
+ ## Basic Statistics in Python — Probability
+
+ 

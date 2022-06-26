@@ -24,7 +24,8 @@
 | Reading Class 07  | [link](https://malakodtalla.github.io/reading-notes/ReadingC7/) |
 | Reading Class 08  | [link](https://malakodtalla.github.io/reading-notes/ReadingC8/) |
 | Reading Class 09  | [link](https://malakodtalla.github.io/reading-notes/ReadingC9/) |
-
+| Reading Class 10  | [link](https://malakodtalla.github.io/reading-notes/ReadingC10/) |
+| Reading Class 11 | [link](https://malakodtalla.github.io/reading-notes/ReadingC11/) |
 
 
 
