@@ -8,7 +8,7 @@ Web scraping is a technique to automatically access and extract large amounts of
 
 Talking about whether web scraping is legal or not, some websites allow web scraping and some don’t. To know whether a website allows web scraping or not, you can look at the website’s “robots.txt” file. You can find this file by appending “/robots.txt” to the URL that you want to scrape.
 
-or we can use <b>python code</b>  to check if a website allows web scraping or not you can use status_code as follows:
+or we can use <b>python code</b>  to check if a website allows web scraping or not we can use status_code as follows:
 
 >> import requests
 
