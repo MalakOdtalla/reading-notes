@@ -31,4 +31,5 @@
 | Reading Class 14 | [link](https://malakodtalla.github.io/reading-notes/ReadingC14/) |
 | Reading Class 15 | [link](https://malakodtalla.github.io/reading-notes/ReadingC15/) |
 | Reading Class 16 | [link](https://malakodtalla.github.io/reading-notes/ReadingC16/) |
+| Reading Class 17 | [link](https://malakodtalla.github.io/reading-notes/ReadingC17/) |
 
