@@ -34,6 +34,8 @@
 | Reading Class 17 | [link](https://malakodtalla.github.io/reading-notes/ReadingC17/) |
 | Reading Class 18 | [link](https://malakodtalla.github.io/reading-notes/ReadingC18/) |
 | Reading Class 19 | [link](https://malakodtalla.github.io/reading-notes/ReadingC19/) |
+| Reading Class 20 | [link](https://malakodtalla.github.io/reading-notes/ReadingC20/) |
+
 
 
 
