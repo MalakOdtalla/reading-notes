@@ -39,6 +39,8 @@
 | Reading Class 22| [link](https://malakodtalla.github.io/reading-notes/ReadingC22/) |
 | Reading Class 23| [link](https://malakodtalla.github.io/reading-notes/ReadingC23/) |
 | Reading Class 24| [link](https://malakodtalla.github.io/reading-notes/ReadingC24/) |
+| Reading Class 25| [link](https://malakodtalla.github.io/reading-notes/ReadingC25/) |
+
 
 
 
