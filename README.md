@@ -40,6 +40,9 @@
 | Reading Class 23| [link](https://malakodtalla.github.io/reading-notes/ReadingC23/) |
 | Reading Class 24| [link](https://malakodtalla.github.io/reading-notes/ReadingC24/) |
 | Reading Class 25| [link](https://malakodtalla.github.io/reading-notes/ReadingC25/) |
+| Reading Class 26| [link](https://malakodtalla.github.io/reading-notes/ReadingC26/) |
+| Reading Class 27| [link](https://malakodtalla.github.io/reading-notes/ReadingC27/) |
+
 
 
 
