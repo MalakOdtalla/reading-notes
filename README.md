@@ -42,6 +42,7 @@
 | Reading Class 25| [link](https://malakodtalla.github.io/reading-notes/ReadingC25/) |
 | Reading Class 26| [link](https://malakodtalla.github.io/reading-notes/ReadingC26/) |
 | Reading Class 27| [link](https://malakodtalla.github.io/reading-notes/ReadingC27/) |
+| Reading Class 28| [link](https://malakodtalla.github.io/reading-notes/ReadingC28/) |
 
 
 
